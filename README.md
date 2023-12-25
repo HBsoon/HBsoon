@@ -7,7 +7,7 @@
 <div align=center>
   <p><strong>✔Server</strong></p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
   <br>
   

@@ -18,7 +18,7 @@
 
   <p><strong>✔CI/CD</strong></p>
   <img src="https://img.shields.io/badge/Github-2088FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CloudBuild-2088FF?style=for-the-badge&logo=Cloudbuild&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CloudBuild-2088FF?style=for-the-badge&logo=google&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=black"> 
   <br>

@@ -18,29 +18,27 @@
 
   <p><strong>✔CI/CD</strong></p>
   <img src="https://img.shields.io/badge/Github-2088FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CloudBuild-2088FF?style=for-the-badge&logo=google&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CloudBuild-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=black"> 
   <br>
 
   <p><strong>✔Monitoring</strong></p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
-  <img src="https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CloudMonitoring-E6522C?style=for-the-badge&logo=googlecloud&logoColor=white">
   <br>
 
   <p><strong>✔IaC</strong></p>
   <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/terraform cloud-000000?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
 
   <p><strong>✔etc</strong></p>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <br>
 
   <h3><strong>🌈Follow Me🌈</strong></h3>
-  <a href="https://parkjihong.notion.site/HOME-0acf42ce888242be8015a588dcea8658?pvs=4">
+  <a href="https://khj3093.notion.site/Hi-I-m-Kim-Hyeji-5f09172446864bac85d2740794722b21?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
